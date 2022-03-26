@@ -75,3 +75,6 @@ product_name | year | month | day | total
  milk        | 2019 | 02    |     | 240
  milk        | 2019 |       |     | 630
  milk        |      |       |     | 630
+
+
+Source: https://www.codewars.com/kata/5dac87a0abe9f1001f39e36d
